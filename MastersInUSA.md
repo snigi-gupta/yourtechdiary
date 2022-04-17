@@ -1,10 +1,10 @@
 ## Masters in USA
-_(This was last edited on April 14 2022)_
+_(This was last edited on April 17 2022)_
 
 This is the Github Page for yourtechdiary </br>
 🌟 Follow me on [Instagram @YourTechDiary](https://www.instagram.com/yourtechdiary/) ~current not that active on IG </br>
-🌟 Join the Slack community to get you questions answered ~very active </br>
-🌟 You can also post you questions in the discussion section of this github repo ~very active </br>
+🌟 Join the [Slack community](https://join.slack.com/t/yourtechdiary/shared_invite/zt-178prxb83-ti5Jo7YRkIO1L~PLxTMj_w) to get your questions answered ~very active </br>
+🌟 You can also post you questions in the [discussion section](https://github.com/snigi-gupta/yourtechdiary/discussions) of this github repo ~very active </br>
 🌟 UB related Information can be found [here](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo) </br>
 
 ### Job/Internship in USA
