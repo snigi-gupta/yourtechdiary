@@ -9,6 +9,7 @@ This is the Github Page for yourtechdiary </br>
 🌟 Join the [Slack community](https://join.slack.com/t/yourtechdiary/shared_invite/zt-17t6cjlo5-uCtvcHBtH1i6ME3VYT~ndw) to get your questions answered ~very active </br>
 🌟 You can also post you questions in the [discussion section](https://github.com/snigi-gupta/yourtechdiary/discussions) of this github repo ~very active </br>
 🌟 UB related Information can be found [here](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo) </br>
+🌟 If you need a referral, follow me on IG and join my slack channel. Share your resume in #referral channel and I will refer you.
 
 ### Job/Internship in USA
 ----
